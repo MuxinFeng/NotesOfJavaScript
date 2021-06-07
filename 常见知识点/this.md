@@ -42,3 +42,4 @@ Name.getName.bind(person1).bind(person2);//'Jack';
 [this、apply、call、bind](https://juejin.cn/post/6844903496253177863)<br/>
 [JavaScript-作用域、块级作用域、上下文、执行上下文、作用域链](https://segmentfault.com/a/1190000014876534)<br/>
 [JS 中 this 指向问题](https://juejin.cn/post/6946021671656488991#heading-2)<br/>
+[JS 中 this 指向问题 ](https://juejin.cn/post/6946021671656488991#heading-1)<br/>
