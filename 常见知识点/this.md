@@ -39,7 +39,8 @@ Name.getName.bind(person1).bind(person2);//'Jack';
 ### 参考文档
 [MDN官方文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/this)<br/>
 [嗨，你真的懂this吗？](https://juejin.cn/post/6844903805587619854)<br/>
+[从这两套题，重新认识JS的this、作用域、闭包、对象](https://segmentfault.com/a/1190000010981003)<br/>
 [this、apply、call、bind](https://juejin.cn/post/6844903496253177863)<br/>
 [JavaScript-作用域、块级作用域、上下文、执行上下文、作用域链](https://segmentfault.com/a/1190000014876534)<br/>
 [JS 中 this 指向问题](https://juejin.cn/post/6946021671656488991#heading-2)<br/>
-[JS 中 this 指向问题 ](https://juejin.cn/post/6946021671656488991#heading-1)<br/>
+
