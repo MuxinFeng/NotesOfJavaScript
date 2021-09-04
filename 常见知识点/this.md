@@ -36,6 +36,9 @@ Name.getName.bind(person1).bind(person2);//'Jack';
 4. apply、call
 
 
+从简单的定义开始，一步步剖析，看总结出的规律是否可以用到所有情况，不断举例，不断论证
+
+
 ### 参考文档
 [MDN官方文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/this)<br/>
 [嗨，你真的懂this吗？](https://juejin.cn/post/6844903805587619854)<br/>
